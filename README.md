@@ -25,5 +25,5 @@
 ## 下载：
 
 考虑到Github国内下载慢，字体文件大，可以到123云盘（不限速，需登录）下载。
-注：Github上的PPT模板不全，请移步下方链接下载。
+~~注：Github上的PPT模板不全，请移步下方链接下载。~~
 https://www.123pan.com/s/UK1KVv-wL9tv	提取码:SCUT
