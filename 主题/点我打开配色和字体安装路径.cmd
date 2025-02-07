@@ -1,1 +1,0 @@
-explorer.exe "%AppData%\Microsoft\Templates\Document Themes"
